@@ -258,11 +258,9 @@ section div.texts p{
 }
 .media.s1 video{
 position:absolute;
-width:72%;
-top:74px;
-left:64px;
-margin-left:-2%;
-margin-top:-3%;
+width:82%;
+top:62px;
+left:54px;
 }
 @media screen and (min-width:600px){
     .media.s1 video{
@@ -317,12 +315,12 @@ section div.download img{
     position:absolute;
     width:60%;
     top:40px;
-    left:72px;
+    left:86px;
     }
     @media screen and (min-width:600px){
         .media.s3 video{
-            top:120px;
-            left:125px;
+            top:69px;
+            left:140px;
         }
     }
     div.faq{
